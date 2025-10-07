@@ -1,5 +1,3 @@
-![Header](./Image.png)
-
 # 👋 Hi, I’m Asia
 
 I’m a systems engineer turned aspiring data scientist, passionate about using data to uncover insights and build meaningful solutions. With several years of experience applying analytical rigor to complex systems, I’m now focused on growing my skills in **Python**, **SQL**, **Power BI**, and **machine learning** through hands-on projects.
